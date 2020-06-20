@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/MrWormHole/todo-api-grpc/proto"
+	"github.com/MrWormHole/grpc-math-api/proto"
 	"github.com/gin-gonic/gin"
 	"google.golang.org/grpc"
 )
