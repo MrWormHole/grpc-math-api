@@ -4,7 +4,7 @@ import (
 	"context"
 	"net"
 
-	"github.com/MrWormHole/todo-api-grpc/proto"
+	"github.com/MrWormHole/grpc-math-api/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )
